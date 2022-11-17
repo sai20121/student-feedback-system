@@ -1,1 +1,1 @@
-
+Please download WAMP(Windows)/XAMPP(Windows)/LAMP(Linux) if you want to host this project locally
